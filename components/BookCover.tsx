@@ -869,7 +869,7 @@ const BookCover: React.FC = () => {
                         <div className="space-y-3 font-serif text-[10px] md:text-xs text-[#3E2723] leading-relaxed md:leading-loose text-justify pt-2 z-10">
                           <p className="font-bold text-[#2c1b18]">Hey Vedanshi,</p>
                           <p>
-                            I don't say this enough, but... I notice you. Every little thing, your nervous smile, your patience, and how you care without even trying. You make my days feel lighter, and my worries feel smaller. Being with you feels easy, like I can just be myself.
+                            I probably don't say this enough, but I really do notice you. Everything, from that nervous smile of yours to your patience and just the way you care about things.Honestly, you just make everything feel a little less heavy. When I'm with you, my worries don’t seem like such a big deal anymore. Being with you is just... easy. I feel like I can finally just be myself.
                           </p>
                           <p>
                             I cannot fully explain how much it means to me that you are just you. I feel lucky every day to be the one who gets to see you as you are. You make even the small moments feel special, and you bring a kind of peace that I never want to lose.
