@@ -1360,7 +1360,6 @@ const BookCover: React.FC = () => {
                         Thank you for being you and being mine.
                      </p>
                      <div className="text-right mt-2">
-                         <span className="font-serif text-[8px] text-gray-400">to the moon & back &rarr;</span>
                      </div>
                   </div>
                   
